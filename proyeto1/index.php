@@ -8,16 +8,15 @@ $cabezeraChiste = array("wanna bad joke",
 						"last one... promisse");
 
 $urlChiste = array("https://i.imgflip.com/8uhl0.jpg",
-					"http://cdn.acidcow.com/pics/20121002/science_jokes_18.jpg",
 					"http://www.365imagenesbonitas.com/wp-content/uploads/2014/07/imagenes-bonitas-tiempo.jpg",
+					"http://cdn.acidcow.com/pics/20121002/science_jokes_18.jpg",
 					"http://img.opposingviews.com/sites/default/files/styles/adaptive/public/gallery/13/11/slides/arcsupport.jpg?itok=vmOWsjiY",
 					"http://img0.joyreactor.com/pics/post/funny-pictures-auto-lame-pun-coon-bad-joke-eel-467195.jpeg",
 					"http://www.quickmeme.com/img/11/11f3af8f7af83a4a3bf345e5f49ada1129ef5c1afe7f898f9db512d6e6cf8796.jpg");
 
 $foot = array("solo es divertido si sabes ingles",
-				"solo es divertido si sabes Ingles",
-				"not even the slow death of our plantet will make this less funny",
 				"broma mala",
+				"not even the slow death of our plantet will make this less funny",
 				"esta es buena",
 				"never not funny",
 				"hahahahahhahahahahahahhaah");
